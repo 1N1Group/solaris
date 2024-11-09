@@ -5,7 +5,7 @@
 
 ## Install
 ```bash
-go get github.com/1N1Group/solaris/v2
+go get github.com/1N1Group/solaris
 ```
 
 ## Usage

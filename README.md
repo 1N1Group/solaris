@@ -16,7 +16,7 @@ import "github.com/1N1Group/solaris/v2"
 
 ## Functional coverage
 
-### Symbols
+### Coverage statuses
 
 - ✅ - Implemented
 - 💊 - On develope

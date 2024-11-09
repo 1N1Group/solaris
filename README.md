@@ -1,3 +1,4 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/1N1Group/solaris.svg)](https://pkg.go.dev/github.com/1N1Group/solaris)
 # Solaris | Apache Solr Client on Golang 
 
 **Source API configuration**: https://downloads.apache.org/solr/solr/9.7.0/openApi/solr-openapi-9.7.0.json
